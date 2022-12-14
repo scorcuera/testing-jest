@@ -1,4 +1,4 @@
-import { beTrue } from '../src/beTrue'
+import { beTrue } from '../src/beTrue';
 
 test("should return true", () => {
     let result = beTrue();
